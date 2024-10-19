@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![Screenshot 2024-10-18 104221](https://github.com/user-attachments/assets/3118eb05-576b-4d10-88d7-bca83188cdd6)
+
 
 
  
@@ -62,8 +63,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![Screenshot 2024-10-18 104159](https://github.com/user-attachments/assets/78edff0e-e524-4ce0-b3af-d0cdb2f590cd)
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +75,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![Screenshot 2024-10-18 104134](https://github.com/user-attachments/assets/7946d13b-e5a3-434f-aaaa-126134d83e67)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +88,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
 
-For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+For Transient Analysis Settings 
+![Screenshot 2024-10-18 104939](https://github.com/user-attachments/assets/d8a78243-97a7-4774-8b57-b6f8a02b222f)
+
+
+ Output
+ ![Screenshot 2024-10-18 104840](https://github.com/user-attachments/assets/944f1f50-b989-4d1d-994d-e8a46841d3c9)
+
 
 
 
